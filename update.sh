@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#TEST
 echo "Do you want to apply your local changes after updating? (y/n)"
 read answer
 
